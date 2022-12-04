@@ -1,0 +1,205 @@
+canvas{
+
+    border: 2px solid black;
+    background-image: url("https://upload.wikimedia.org/wikipedia/it/thumb/2/23/Batcaverna_-_DCUO.jpg/1200px-Batcaverna_-_DCUO.jpg") ;
+    background-repeat: no-repeat;
+    display: block;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-size: 900px;
+
+
+}
+body{
+    background-color: black;
+    color: white;
+
+
+
+}
+button{
+position: absolute;
+    top: 200px;
+    left: 885px;
+
+}
+#img1{
+   position: absolute;
+    left: 5px;
+    top: 65px;
+
+
+}
+img{
+    position: absolute;
+    left: 1298px;
+    top: 100px;
+
+
+}
+#img2{
+    position: absolute;
+    left: 1610px;
+    top: 0px;
+}
+#img3{
+    position: absolute;
+    left: 660px;
+    top: 667px;
+}
+#img4{
+    position: absolute;
+    left: 0px;
+    top: 308px;
+
+}
+
+#img5{
+    position: absolute;
+    left: 0px;
+    top: 308px;
+
+}
+#img5{
+    position: absolute;
+    left: 0px;
+    top: 308px;
+
+}
+#img6{
+     position: absolute;
+     left: 1700px;
+     top: 728px;
+
+ }
+#img7{
+    position: absolute;
+    left: 1820px;
+    top: 308px;
+
+}
+#img8{
+    position: absolute;
+    left: 1750px;
+    top: 208px;
+
+}
+#img9{
+    position: absolute;
+    left: 1750px;
+    top: 308px;
+
+}
+#img10{
+    position: absolute;
+    left: 1820px;
+    top: 228px;
+
+}
+#img11{
+    position: absolute;
+    left: 820px;
+    top: 358px;
+
+}
+#img12{
+    position: absolute;
+    left: 920px;
+    top: 358px;
+
+}
+#img13{
+    position: absolute;
+    left: 1020px;
+    top: 358px;
+
+}
+#img14{
+    position: absolute;
+    left: 1020px;
+    top: 558px;
+
+}
+#img15{
+    position: absolute;
+    left: 820px;
+    top: 558px;
+
+}
+#img16{
+    position: absolute;
+    left: 920px;
+    top: 558px;
+
+}
+#img17{
+    position: absolute;
+    left: 50px;
+    top: 584px;
+
+}
+#img18{
+    position: absolute;
+    left: 1720px;
+    top: 558px;
+
+}
+#img19{
+    position: absolute;
+    left: 570px;
+    top: 328px;
+
+}
+a:link {
+    color: green;
+}
+
+
+a:visited {
+    color: darkgreen;
+
+}
+
+
+a:hover {
+    color: gold;
+
+}
+.myDiv {
+    text-align: center;
+    font-size: 15px;
+}
+
+a:active {
+    color: greenyellow;
+
+
+}
+h1{
+    text-align: center;
+
+
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+#personagem{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+#dano{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+#dano1{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
